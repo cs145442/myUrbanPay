@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UrbanPay.iml" filepath="$PROJECT_DIR$/UrbanPay.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myUrbanPay.iml" filepath="$PROJECT_DIR$/myUrbanPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myUrbanPayNew.iml" filepath="$PROJECT_DIR$/.idea/myUrbanPayNew.iml" />
     </modules>
   </component>
 </project>

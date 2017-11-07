@@ -20,6 +20,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 //Hello, this is Abhishek Kaushik
 //Added one more comment
+//Hello, this is Amit Khetan
 public class LoginActivity extends AppCompatActivity {
 
     private EditText inputEmail, inputPassword;
